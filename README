@@ -1,0 +1,9 @@
+Just a very basic GWT project to display a table with a sortable column, based on the CellTable and SimplePager elements.
+The code is mostly based on the official GWT tutorial :
+http://code.google.com/intl/en/webtoolkit/doc/latest/DevGuideUiCellTable.html 
+
+I left the RPC service (GreetingService) created by the sample project. It is not used.
+
+Celinio Fernandes
+
+http://www.celinio.net/techblog
