@@ -4,6 +4,11 @@ http://code.google.com/intl/en/webtoolkit/doc/latest/DevGuideUiCellTable.html
 
 I left the RPC service (GreetingService) created by the sample project. It is not used.
 
+The demo is here :
+http://tableaupagination.appspot.com/
+
+Only the column VILLE is sortable !
+
 Celinio Fernandes
 
 http://www.celinio.net/techblog
